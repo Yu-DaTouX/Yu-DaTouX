@@ -1,6 +1,6 @@
 ### 你好，我是 YuDaTou
 
-一个人在做 **砚（Inkstone）**：装在电脑上的 AI 助手，你说要做什么，它帮你查资料、写东西、改代码。
+一个人在做 **砚（Inkstone）**：基于Pi的个人agent。
 
 <a href="https://github.com/Yu-DaTouX/Inkstone">
   <picture>
