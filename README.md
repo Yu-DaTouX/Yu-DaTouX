@@ -4,8 +4,8 @@
 
 <a href="https://github.com/Yu-DaTouX/Inkstone">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yu-DaTouX/Inkstone/main/docs/assets/inkstone/wordmark-dark.svg">
-    <img src="https://raw.githubusercontent.com/Yu-DaTouX/Inkstone/main/docs/assets/inkstone/wordmark-light.svg" alt="Inkstone · 砚" width="280">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yu-DaTouX/Inkstone/main/assets/inkstone/wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/Yu-DaTouX/Inkstone/main/assets/inkstone/wordmark-light.svg" alt="Inkstone · 砚" width="280">
   </picture>
 </a>
 
